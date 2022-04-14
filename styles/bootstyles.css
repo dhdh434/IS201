@@ -1,0 +1,31 @@
+.header{
+    height: 100px;
+    background-color: aqua;
+}
+
+.footer{
+    height: 30px;
+    background-color: black;
+    color:  white;
+    text-align: right;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+
+}
+
+.common{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: lightslategray;
+}
+.other{
+    height: 60%;
+    background-color: lightpink;
+}

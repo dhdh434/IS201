@@ -1,0 +1,30 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    color: aqua;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    font-weight: bold;
+}
+body{
+    background-color: lightgreen;
+}
+#top{
+    color: darkblue;
+}
+#bottom{
+    color: chocolate;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
