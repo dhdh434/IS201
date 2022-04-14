@@ -4,7 +4,7 @@
 }
 
 .footer{
-    height: 30px;
+    height: 20px;
     background-color: black;
     color:  white;
     text-align: right;
@@ -26,6 +26,9 @@ body{
     background-color: lightslategray;
 }
 .other{
-    height: 60%;
+    height: 70%;
+    top: 140px;
+    right: 7px;
+    left: 7px;
     background-color: lightpink;
 }
